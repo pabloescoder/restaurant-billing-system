@@ -1,0 +1,5 @@
+The file locations for the menu categories have been taken as per the files stored in my system, they might have to be changed according to the location the menu item files are stored in your system.
+
+Please change the address accordingly.
+Changes in the file addresses might need to be made on line 86, 96, 106, 116, 126
+as per how the files are stored on your system, this is essential for the program to run. 
