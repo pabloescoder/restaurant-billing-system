@@ -1,0 +1,10 @@
+1@Potato Cheese Croquettes@200
+2@Hara Bhara Kabab@200
+3@Spring Rolls@200
+4@Steamed Wontons@250
+5@Cheesy Garlic Bread@250
+6@Veg Manchurian@250
+7@Chilli Baby Corn@250
+8@Sesame Falafel@300
+9@Nachos Supreme@300
+10@Tandoori Platter@300

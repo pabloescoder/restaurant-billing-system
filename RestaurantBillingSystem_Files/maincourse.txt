@@ -1,0 +1,11 @@
+1@Layered Baked Ratatouille@300
+2@Spicy Vegetable Stew With Coconut@300
+3@Mushroom Curry@300
+4@Paneer Butter Masala@350
+5@Pesto Penne Pasta@350
+6@Spaghetti Aglio e Olio@350
+7@Mac & Cheese@400
+8@Malai Kofta@400
+9@Gourmet Mushroom Risotto@400
+10@Broccoli, Rice & Cheese Casserole@400
+
