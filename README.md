@@ -1,5 +1,5 @@
 # restaurant-billing-system
-A full fledged command line interface based restaurant billing system
+A full fledged command line interface based restaurant billing system which persists the generated bills in a local MongoDB database
 
 ## Introduction
 - This program be used in restaurants to calculate the bill of every table. Since I have used ArrayLists, the number of tables can be 10, 10000 or even more. 
