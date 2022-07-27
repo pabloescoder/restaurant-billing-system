@@ -21,4 +21,8 @@
         <maven.compiler.target>18</maven.compiler.target>
     </properties>
 
+    <build>
+        <defaultGoal>install</defaultGoal>
+    </build>
+    
 </project>
